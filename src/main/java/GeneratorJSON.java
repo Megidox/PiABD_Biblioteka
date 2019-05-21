@@ -216,7 +216,7 @@ public class GeneratorJSON {
     }
 
     private static void writeContentToJsonFile(String titleOfFile, String content) throws IOException {
-        BufferedWriter writer = new BufferedWriter(new FileWriter("src\\main\\resources\\" + titleOfFile + ".json"));
+        BufferedWriter writer = new BufferedWriter(new FileWriter("src\\main\\resources\\jsons\\" + titleOfFile + ".json"));
         writer.write(content);
         writer.close();
     }

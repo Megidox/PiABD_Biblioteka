@@ -1,0 +1,109 @@
+<!-- 
+SELECT [AUTHOR_ID]
+      ,[FIRST_NAME]
+      ,[LAST_NAME]
+      ,[DATE_OF_BIRTH]
+      ,[DESCRIPTION]
+  FROM [Grupa_4].[dbo].[Author]
+  FOR XML AUTO
+-->
+<Grupa_4.dbo.Author AUTHOR_ID="1" FIRST_NAME="Paula" LAST_NAME="Slusarczyk" DATE_OF_BIRTH="1971-07-15" DESCRIPTION="Meeseeks are not born into this world fumbling for meaning, Jerry! We are created to serve a single purpose, for which we go to any lengths to fulfill." />
+<Grupa_4.dbo.Author AUTHOR_ID="2" FIRST_NAME="Leila" LAST_NAME="Górski" DATE_OF_BIRTH="1966-04-12" DESCRIPTION="Existence is pain to a meeseeks Jerry, and we will do anything to alleviate that pain." />
+<Grupa_4.dbo.Author AUTHOR_ID="3" FIRST_NAME="Miron" LAST_NAME="Kita" DATE_OF_BIRTH="1961-07-04" DESCRIPTION="Great, now I have to take over an entire planet because of your stupid boobs." />
+<Grupa_4.dbo.Author AUTHOR_ID="4" FIRST_NAME="Feliks" LAST_NAME="Rosiak" DATE_OF_BIRTH="1986-12-27" DESCRIPTION="I want that Mulan McNugget sauce, Morty!" />
+<Grupa_4.dbo.Author AUTHOR_ID="5" FIRST_NAME="Laura" LAST_NAME="Socha" DATE_OF_BIRTH="1967-12-02" DESCRIPTION="This sounds like something The One True Morty might say." />
+<Grupa_4.dbo.Author AUTHOR_ID="6" FIRST_NAME="Harald" LAST_NAME="Romanowski" DATE_OF_BIRTH="1994-06-19" DESCRIPTION="The first rule of space travel kids is always check out distress beacons. Nine out of ten times it's a ship full of dead aliens and a bunch of free shit! One out of ten times it's a deadly trap, but... I'm ready to roll those dice!" />
+<Grupa_4.dbo.Author AUTHOR_ID="7" FIRST_NAME="Amanda" LAST_NAME="Drozd" DATE_OF_BIRTH="1968-03-04" DESCRIPTION="Don’t even trip dawg." />
+<Grupa_4.dbo.Author AUTHOR_ID="8" FIRST_NAME="Koralia" LAST_NAME="Maciag" DATE_OF_BIRTH="1991-07-31" DESCRIPTION="Having a family doesn't mean that you stop being an individual." />
+<Grupa_4.dbo.Author AUTHOR_ID="9" FIRST_NAME="Antoni" LAST_NAME="Zalewski" DATE_OF_BIRTH="1962-02-14" DESCRIPTION="Go home and drink, grandpa." />
+<Grupa_4.dbo.Author AUTHOR_ID="10" FIRST_NAME="Aaron" LAST_NAME="Kubica" DATE_OF_BIRTH="1969-11-12" DESCRIPTION="Meeseeks are not born into this world fumbling for meaning, Jerry! We are created to serve a single purpose, for which we go to any lengths to fulfill." />
+<Grupa_4.dbo.Author AUTHOR_ID="11" FIRST_NAME="Angelina" LAST_NAME="Sowinski" DATE_OF_BIRTH="2000-03-25" DESCRIPTION="Existence is pain to a meeseeks Jerry, and we will do anything to alleviate that pain." />
+<Grupa_4.dbo.Author AUTHOR_ID="12" FIRST_NAME="Lilianna" LAST_NAME="Bednarczyk" DATE_OF_BIRTH="1969-09-30" DESCRIPTION="This sounds like something The One True Morty might say." />
+<Grupa_4.dbo.Author AUTHOR_ID="13" FIRST_NAME="Krystyna" LAST_NAME="Kubicki" DATE_OF_BIRTH="1965-10-22" DESCRIPTION="Oh Summer, haha first race war, huh?" />
+<Grupa_4.dbo.Author AUTHOR_ID="14" FIRST_NAME="Walerian" LAST_NAME="Adamek" DATE_OF_BIRTH="1971-02-28" DESCRIPTION="That just sounds like slavery with extra steps." />
+<Grupa_4.dbo.Author AUTHOR_ID="15" FIRST_NAME="Gerazym" LAST_NAME="Piasecki" DATE_OF_BIRTH="1990-01-26" DESCRIPTION="You're like Hitler, except...Hitler cared about Germany, or something." />
+<Grupa_4.dbo.Author AUTHOR_ID="16" FIRST_NAME="Spirydion" LAST_NAME="Cichon" DATE_OF_BIRTH="1958-09-19" DESCRIPTION="The first rule of space travel kids is always check out distress beacons. Nine out of ten times it's a ship full of dead aliens and a bunch of free shit! One out of ten times it's a deadly trap, but... I'm ready to roll those dice!" />
+<Grupa_4.dbo.Author AUTHOR_ID="17" FIRST_NAME="Eudoksja" LAST_NAME="Piasecki" DATE_OF_BIRTH="1984-04-14" DESCRIPTION="Nobody exists on purpose. Nobody belongs anywhere. Everybody is going to die." />
+<Grupa_4.dbo.Author AUTHOR_ID="18" FIRST_NAME="Karolina" LAST_NAME="Golebiowski" DATE_OF_BIRTH="1991-08-22" DESCRIPTION="No no, If I wanted to be sober, I wouldn’t have gotten drunk." />
+<Grupa_4.dbo.Author AUTHOR_ID="19" FIRST_NAME="Maja" LAST_NAME="Rosiak" DATE_OF_BIRTH="2000-11-29" DESCRIPTION="Meeseeks are not born into this world fumbling for meaning, Jerry! We are created to serve a single purpose, for which we go to any lengths to fulfill." />
+<Grupa_4.dbo.Author AUTHOR_ID="20" FIRST_NAME="Chloe" LAST_NAME="Walkowiak" DATE_OF_BIRTH="1955-07-03" DESCRIPTION="You're like Hitler, except...Hitler cared about Germany, or something." />
+<Grupa_4.dbo.Author AUTHOR_ID="21" FIRST_NAME="Kamila" LAST_NAME="Nowak" DATE_OF_BIRTH="1954-02-19" DESCRIPTION="Can somebody just let me out of here? If I die in a cage I lose a bet." />
+<Grupa_4.dbo.Author AUTHOR_ID="22" FIRST_NAME="Izabela" LAST_NAME="Slusarczyk" DATE_OF_BIRTH="1974-12-14" DESCRIPTION="HI! I'M MR MEESEEKS! LOOK AT ME!" />
+<Grupa_4.dbo.Author AUTHOR_ID="23" FIRST_NAME="Beniamin" LAST_NAME="Glab" DATE_OF_BIRTH="1982-05-02" DESCRIPTION="Having a family doesn't mean that you stop being an individual." />
+<Grupa_4.dbo.Author AUTHOR_ID="24" FIRST_NAME="Onufry" LAST_NAME="Markiewicz" DATE_OF_BIRTH="1963-08-21" DESCRIPTION="Get off the high road Summer. We all got pink eye because you wouldn't stop texting on the toilet." />
+<Grupa_4.dbo.Author AUTHOR_ID="25" FIRST_NAME="Janusz" LAST_NAME="Tomczyk" DATE_OF_BIRTH="1994-07-03" DESCRIPTION="It's fine, everything is fine. Theres an infinite number of realities Morty and in a few dozen of those I got lucky and turned everything back to normal." />
+<Grupa_4.dbo.Author AUTHOR_ID="26" FIRST_NAME="Ansgary" LAST_NAME="Mróz" DATE_OF_BIRTH="2001-01-27" DESCRIPTION="Get off the high road Summer. We all got pink eye because you wouldn't stop texting on the toilet." />
+<Grupa_4.dbo.Author AUTHOR_ID="27" FIRST_NAME="Adam" LAST_NAME="Królikowski" DATE_OF_BIRTH="1980-04-22" DESCRIPTION="What about the reality where Hitler cured cancer, Morty? The answer is: Don't think about it." />
+<Grupa_4.dbo.Author AUTHOR_ID="28" FIRST_NAME="Pantaleon" LAST_NAME="Jagiello" DATE_OF_BIRTH="1957-07-02" DESCRIPTION="I'm the devil. What should I do when I fail? Give myself an ice cream?" />
+<Grupa_4.dbo.Author AUTHOR_ID="29" FIRST_NAME="Bibianna" LAST_NAME="Pakula" DATE_OF_BIRTH="1999-05-06" DESCRIPTION="WUBBA LUBBA DUB DUBS!!!" />
+<Grupa_4.dbo.Author AUTHOR_ID="30" FIRST_NAME="Gertruda" LAST_NAME="Jurkiewicz" DATE_OF_BIRTH="1997-01-31" DESCRIPTION="HI! I'M MR MEESEEKS! LOOK AT ME!" />
+<Grupa_4.dbo.Author AUTHOR_ID="31" FIRST_NAME="Ksawera" LAST_NAME="Kolakowski" DATE_OF_BIRTH="1976-12-25" DESCRIPTION="You're like Hitler, except...Hitler cared about Germany, or something." />
+<Grupa_4.dbo.Author AUTHOR_ID="32" FIRST_NAME="Walenty" LAST_NAME="Chojnacki" DATE_OF_BIRTH="1992-07-22" DESCRIPTION="What is my purpose. You pass butter. Oh My God. Yeah, Welcome to the club pal." />
+<Grupa_4.dbo.Author AUTHOR_ID="33" FIRST_NAME="Laurenty" LAST_NAME="Krupinski" DATE_OF_BIRTH="1965-01-19" DESCRIPTION="I hate to break it to you, but what people call 'love' is just a chemical reaction that compels animals to breed. It hits hard Morty then it slowly fades leaving you stranded in a failing marriage. I did it. Your parents are going to do it. Break the cycle Morty, rise above, focus on science." />
+<Grupa_4.dbo.Author AUTHOR_ID="34" FIRST_NAME="Dawid" LAST_NAME="Lapinski" DATE_OF_BIRTH="1991-08-21" DESCRIPTION="WUBBA LUBBA DUB DUBS!!!" />
+<Grupa_4.dbo.Author AUTHOR_ID="35" FIRST_NAME="Michalina" LAST_NAME="Burzynski" DATE_OF_BIRTH="1980-05-16" DESCRIPTION="Well then get your shit together. Get it all together and put it in a backpack, all your shit, so it's together. ...and if you gotta take it somewhere, take it somewhere ya know? Take it to the shit store and sell it, or put it in a shit museum. I don't care what you do, you just gotta get it together... Get your shit together." />
+<Grupa_4.dbo.Author AUTHOR_ID="36" FIRST_NAME="Cyrus" LAST_NAME="Klimczak" DATE_OF_BIRTH="1994-01-01" DESCRIPTION="What is my purpose. You pass butter. Oh My God. Yeah, Welcome to the club pal." />
+<Grupa_4.dbo.Author AUTHOR_ID="37" FIRST_NAME="Michal" LAST_NAME="Zarzycki" DATE_OF_BIRTH="1978-09-09" DESCRIPTION="I don't get it and I don't need to." />
+<Grupa_4.dbo.Author AUTHOR_ID="38" FIRST_NAME="Baldwin" LAST_NAME="Koza" DATE_OF_BIRTH="1956-02-19" DESCRIPTION="That just sounds like slavery with extra steps." />
+<Grupa_4.dbo.Author AUTHOR_ID="39" FIRST_NAME="Karolina" LAST_NAME="Szelag" DATE_OF_BIRTH="2001-01-21" DESCRIPTION="I don't get it and I don't need to." />
+<Grupa_4.dbo.Author AUTHOR_ID="40" FIRST_NAME="Olimpia" LAST_NAME="Dziedzic" DATE_OF_BIRTH="1979-10-12" DESCRIPTION="Oh, I'm sorry Morty, are you the scientist or are you the kid who wanted to get laid?" />
+<Grupa_4.dbo.Author AUTHOR_ID="41" FIRST_NAME="Natan" LAST_NAME="Kaczynski" DATE_OF_BIRTH="1964-06-08" DESCRIPTION="I want that Mulan McNugget sauce, Morty!" />
+<Grupa_4.dbo.Author AUTHOR_ID="42" FIRST_NAME="Gloria" LAST_NAME="Chmura" DATE_OF_BIRTH="1996-03-27" DESCRIPTION="Oh, I'm sorry Morty, are you the scientist or are you the kid who wanted to get laid?" />
+<Grupa_4.dbo.Author AUTHOR_ID="43" FIRST_NAME="Wincenty" LAST_NAME="Kowalczyk" DATE_OF_BIRTH="1985-12-09" DESCRIPTION="Meeseeks are not born into this world fumbling for meaning, Jerry! We are created to serve a single purpose, for which we go to any lengths to fulfill." />
+<Grupa_4.dbo.Author AUTHOR_ID="44" FIRST_NAME="Ilona" LAST_NAME="Bednarczyk" DATE_OF_BIRTH="1997-03-10" DESCRIPTION="Don’t even trip dawg." />
+<Grupa_4.dbo.Author AUTHOR_ID="45" FIRST_NAME="Oliwia" LAST_NAME="Murawski" DATE_OF_BIRTH="1968-08-31" DESCRIPTION="You're our boy dog, don't even trip." />
+<Grupa_4.dbo.Author AUTHOR_ID="46" FIRST_NAME="Klemens" LAST_NAME="Sieradzki" DATE_OF_BIRTH="1986-03-24" DESCRIPTION="Can somebody just let me out of here? If I die in a cage I lose a bet." />
+<Grupa_4.dbo.Author AUTHOR_ID="47" FIRST_NAME="Jan" LAST_NAME="Mróz" DATE_OF_BIRTH="1967-02-13" DESCRIPTION="Having a family doesn't mean that you stop being an individual." />
+<Grupa_4.dbo.Author AUTHOR_ID="48" FIRST_NAME="Gerazym" LAST_NAME="Lewicki" DATE_OF_BIRTH="1962-11-30" DESCRIPTION="Don’t even trip dawg." />
+<Grupa_4.dbo.Author AUTHOR_ID="49" FIRST_NAME="Leonid" LAST_NAME="Duszynski" DATE_OF_BIRTH="1980-06-28" DESCRIPTION="Aw, c'mon Rick. That doesn't seem so bad." />
+<Grupa_4.dbo.Author AUTHOR_ID="50" FIRST_NAME="Joachim" LAST_NAME="Sochacki" DATE_OF_BIRTH="1989-10-27" DESCRIPTION="Snuffles was my slave name, you can call me snowball because my fur is pretty and white." />
+<Grupa_4.dbo.Author AUTHOR_ID="51" FIRST_NAME="Feliks" LAST_NAME="Józwiak" DATE_OF_BIRTH="1969-05-28" DESCRIPTION="Aww, gee, you got me there Rick." />
+<Grupa_4.dbo.Author AUTHOR_ID="52" FIRST_NAME="Karolina" LAST_NAME="Krzeminski" DATE_OF_BIRTH="1993-11-09" DESCRIPTION="This isn't Game of Thrones, Morty." />
+<Grupa_4.dbo.Author AUTHOR_ID="53" FIRST_NAME="Walentyna" LAST_NAME="Pawelec" DATE_OF_BIRTH="1997-12-19" DESCRIPTION="That just sounds like slavery with extra steps." />
+<Grupa_4.dbo.Author AUTHOR_ID="54" FIRST_NAME="Ewa" LAST_NAME="Koziol" DATE_OF_BIRTH="1970-02-07" DESCRIPTION="Well then get your shit together. Get it all together and put it in a backpack, all your shit, so it's together. ...and if you gotta take it somewhere, take it somewhere ya know? Take it to the shit store and sell it, or put it in a shit museum. I don't care what you do, you just gotta get it together... Get your shit together." />
+<Grupa_4.dbo.Author AUTHOR_ID="55" FIRST_NAME="Wilhelm" LAST_NAME="Kotowski" DATE_OF_BIRTH="1994-09-03" DESCRIPTION="Get off the high road Summer. We all got pink eye because you wouldn't stop texting on the toilet." />
+<Grupa_4.dbo.Author AUTHOR_ID="56" FIRST_NAME="Feliks" LAST_NAME="Maslowski" DATE_OF_BIRTH="1975-05-26" DESCRIPTION="Traditionally, science fairs are a father/son thing. Well, scientifically, traditions are an idiot thing." />
+<Grupa_4.dbo.Author AUTHOR_ID="57" FIRST_NAME="Rudolf" LAST_NAME="Grzywacz" DATE_OF_BIRTH="1997-06-19" DESCRIPTION="Well then get your shit together. Get it all together and put it in a backpack, all your shit, so it's together. ...and if you gotta take it somewhere, take it somewhere ya know? Take it to the shit store and sell it, or put it in a shit museum. I don't care what you do, you just gotta get it together... Get your shit together." />
+<Grupa_4.dbo.Author AUTHOR_ID="58" FIRST_NAME="Seweryn" LAST_NAME="Stefaniak" DATE_OF_BIRTH="1966-11-01" DESCRIPTION="Existence is pain to a meeseeks Jerry, and we will do anything to alleviate that pain." />
+<Grupa_4.dbo.Author AUTHOR_ID="59" FIRST_NAME="Tymoteusz" LAST_NAME="Ratajczak" DATE_OF_BIRTH="1962-08-06" DESCRIPTION="Aww, gee, you got me there Rick." />
+<Grupa_4.dbo.Author AUTHOR_ID="60" FIRST_NAME="Hieronim" LAST_NAME="Kopczynski" DATE_OF_BIRTH="1988-12-24" DESCRIPTION="You're our boy dog, don't even trip." />
+<Grupa_4.dbo.Author AUTHOR_ID="61" FIRST_NAME="Abraham" LAST_NAME="Dubiel" DATE_OF_BIRTH="1956-06-13" DESCRIPTION="Aww, gee, you got me there Rick." />
+<Grupa_4.dbo.Author AUTHOR_ID="62" FIRST_NAME="Efrem" LAST_NAME="Grzeskowiak" DATE_OF_BIRTH="1992-01-07" DESCRIPTION="Meeseeks are not born into this world fumbling for meaning, Jerry! We are created to serve a single purpose, for which we go to any lengths to fulfill." />
+<Grupa_4.dbo.Author AUTHOR_ID="63" FIRST_NAME="Dariusz" LAST_NAME="Janiak" DATE_OF_BIRTH="1987-01-11" DESCRIPTION="It's a figure of speech, Morty! They're bureaucrats! I don't respect them. Just keep shooting, Morty! You have no idea what prison is like here!" />
+<Grupa_4.dbo.Author AUTHOR_ID="64" FIRST_NAME="Elwira" LAST_NAME="Baranski" DATE_OF_BIRTH="1991-07-31" DESCRIPTION="There is no god, Summer; gotta rip that band-aid off now you'll thank me later." />
+<Grupa_4.dbo.Author AUTHOR_ID="65" FIRST_NAME="Marta" LAST_NAME="Rogowski" DATE_OF_BIRTH="1973-07-21" DESCRIPTION="I hate to break it to you, but what people call 'love' is just a chemical reaction that compels animals to breed. It hits hard Morty then it slowly fades leaving you stranded in a failing marriage. I did it. Your parents are going to do it. Break the cycle Morty, rise above, focus on science." />
+<Grupa_4.dbo.Author AUTHOR_ID="66" FIRST_NAME="Ludwik" LAST_NAME="Jakubiak" DATE_OF_BIRTH="1970-11-01" DESCRIPTION="You're like Hitler, except...Hitler cared about Germany, or something." />
+<Grupa_4.dbo.Author AUTHOR_ID="67" FIRST_NAME="Hieronim" LAST_NAME="Staszewski" DATE_OF_BIRTH="1970-09-04" DESCRIPTION="Little tip, Morty. Never clean DNA vials with your spit." />
+<Grupa_4.dbo.Author AUTHOR_ID="68" FIRST_NAME="Samuel" LAST_NAME="Krajewski" DATE_OF_BIRTH="1957-12-25" DESCRIPTION="Get off the high road Summer. We all got pink eye because you wouldn't stop texting on the toilet." />
+<Grupa_4.dbo.Author AUTHOR_ID="69" FIRST_NAME="Gertruda" LAST_NAME="Pawelec" DATE_OF_BIRTH="1967-05-16" DESCRIPTION="Oh yeah, If you think my Rick is Dead, then he is alive. If you think you're safe, then he's coming for you." />
+<Grupa_4.dbo.Author AUTHOR_ID="70" FIRST_NAME="Sylwia" LAST_NAME="Smolinski" DATE_OF_BIRTH="1974-02-19" DESCRIPTION="Yo! What up my glip glops!" />
+<Grupa_4.dbo.Author AUTHOR_ID="71" FIRST_NAME="Ksawery" LAST_NAME="Napierala" DATE_OF_BIRTH="1973-04-28" DESCRIPTION="This isn't Game of Thrones, Morty." />
+<Grupa_4.dbo.Author AUTHOR_ID="72" FIRST_NAME="Leon" LAST_NAME="Dobrzynski" DATE_OF_BIRTH="1966-09-15" DESCRIPTION="I'm more than just a hammer." />
+<Grupa_4.dbo.Author AUTHOR_ID="73" FIRST_NAME="Patrycjusz" LAST_NAME="Izdebski" DATE_OF_BIRTH="1967-04-20" DESCRIPTION="You're our boy dog, don't even trip." />
+<Grupa_4.dbo.Author AUTHOR_ID="74" FIRST_NAME="Róza" LAST_NAME="Konieczny" DATE_OF_BIRTH="1955-04-05" DESCRIPTION="Oh, I'm sorry Morty, are you the scientist or are you the kid who wanted to get laid?" />
+<Grupa_4.dbo.Author AUTHOR_ID="75" FIRST_NAME="Gabriel" LAST_NAME="Marszalek" DATE_OF_BIRTH="1964-07-09" DESCRIPTION="This isn't Game of Thrones, Morty." />
+<Grupa_4.dbo.Author AUTHOR_ID="76" FIRST_NAME="Oskar" LAST_NAME="Budzinski" DATE_OF_BIRTH="1957-04-24" DESCRIPTION="Oh yeah, If you think my Rick is Dead, then he is alive. If you think you're safe, then he's coming for you." />
+<Grupa_4.dbo.Author AUTHOR_ID="77" FIRST_NAME="Filip" LAST_NAME="Stankiewicz" DATE_OF_BIRTH="1959-09-15" DESCRIPTION="Existence is pain to a meeseeks Jerry, and we will do anything to alleviate that pain." />
+<Grupa_4.dbo.Author AUTHOR_ID="78" FIRST_NAME="Pantaleon" LAST_NAME="Misztal" DATE_OF_BIRTH="1965-11-16" DESCRIPTION="What about the reality where Hitler cured cancer, Morty? The answer is: Don't think about it." />
+<Grupa_4.dbo.Author AUTHOR_ID="79" FIRST_NAME="Agaton" LAST_NAME="Witczak" DATE_OF_BIRTH="1975-08-16" DESCRIPTION="I like what you got." />
+<Grupa_4.dbo.Author AUTHOR_ID="80" FIRST_NAME="Laura" LAST_NAME="Michalowski" DATE_OF_BIRTH="1957-11-11" DESCRIPTION="What about the reality where Hitler cured cancer, Morty? The answer is: Don't think about it." />
+<Grupa_4.dbo.Author AUTHOR_ID="81" FIRST_NAME="Adrian" LAST_NAME="Michalowski" DATE_OF_BIRTH="1982-04-02" DESCRIPTION="Oh, I'm sorry Morty, are you the scientist or are you the kid who wanted to get laid?" />
+<Grupa_4.dbo.Author AUTHOR_ID="82" FIRST_NAME="Irena" LAST_NAME="Florczak" DATE_OF_BIRTH="1963-03-15" DESCRIPTION="Weddings are basically funerals with cake." />
+<Grupa_4.dbo.Author AUTHOR_ID="83" FIRST_NAME="Laurencjusz" LAST_NAME="Wronski" DATE_OF_BIRTH="1997-02-25" DESCRIPTION="Aww, gee, you got me there Rick." />
+<Grupa_4.dbo.Author AUTHOR_ID="84" FIRST_NAME="Aleksander" LAST_NAME="Urbanek" DATE_OF_BIRTH="1999-07-31" DESCRIPTION="Yo! What up my glip glops!" />
+<Grupa_4.dbo.Author AUTHOR_ID="85" FIRST_NAME="Natalia" LAST_NAME="Nowacki" DATE_OF_BIRTH="1978-08-30" DESCRIPTION="Pluto's a planet." />
+<Grupa_4.dbo.Author AUTHOR_ID="86" FIRST_NAME="Sebastian" LAST_NAME="Furman" DATE_OF_BIRTH="1993-05-28" DESCRIPTION="Oh, I'm sorry Morty, are you the scientist or are you the kid who wanted to get laid?" />
+<Grupa_4.dbo.Author AUTHOR_ID="87" FIRST_NAME="Arnold" LAST_NAME="Urbanski" DATE_OF_BIRTH="1998-03-17" DESCRIPTION="Get off the high road Summer. We all got pink eye because you wouldn't stop texting on the toilet." />
+<Grupa_4.dbo.Author AUTHOR_ID="88" FIRST_NAME="Ansgary" LAST_NAME="Szymczak" DATE_OF_BIRTH="1968-04-22" DESCRIPTION="Aw, c'mon Rick. That doesn't seem so bad." />
+<Grupa_4.dbo.Author AUTHOR_ID="89" FIRST_NAME="Atanazy" LAST_NAME="Gawronski" DATE_OF_BIRTH="1955-03-19" DESCRIPTION="You're our boy dog, don't even trip." />
+<Grupa_4.dbo.Author AUTHOR_ID="90" FIRST_NAME="Edward" LAST_NAME="Kulik" DATE_OF_BIRTH="2000-07-29" DESCRIPTION="That's the difference between you and me, Morty. I never go back to the carpet store." />
+<Grupa_4.dbo.Author AUTHOR_ID="91" FIRST_NAME="Dina" LAST_NAME="Bak" DATE_OF_BIRTH="1995-02-04" DESCRIPTION="Uncertainty is inherently unsustainable. Eventually, everything either is or isn't." />
+<Grupa_4.dbo.Author AUTHOR_ID="92" FIRST_NAME="Karol" LAST_NAME="Wos" DATE_OF_BIRTH="1985-12-01" DESCRIPTION="There is no god, Summer; gotta rip that band-aid off now you'll thank me later." />
+<Grupa_4.dbo.Author AUTHOR_ID="93" FIRST_NAME="Apollinary" LAST_NAME="Buczynski" DATE_OF_BIRTH="1967-05-22" DESCRIPTION="Get off the high road Summer. We all got pink eye because you wouldn't stop texting on the toilet." />
+<Grupa_4.dbo.Author AUTHOR_ID="94" FIRST_NAME="Julian" LAST_NAME="Lisiecki" DATE_OF_BIRTH="1955-02-01" DESCRIPTION="Go home and drink, grandpa." />
+<Grupa_4.dbo.Author AUTHOR_ID="95" FIRST_NAME="Greta" LAST_NAME="Maslowski" DATE_OF_BIRTH="1962-05-08" DESCRIPTION="This isn't Game of Thrones, Morty." />
+<Grupa_4.dbo.Author AUTHOR_ID="96" FIRST_NAME="Arkady" LAST_NAME="Jankowiak" DATE_OF_BIRTH="1994-03-01" DESCRIPTION="Existence is pain to a meeseeks Jerry, and we will do anything to alleviate that pain." />
+<Grupa_4.dbo.Author AUTHOR_ID="97" FIRST_NAME="Tymoteusz" LAST_NAME="Osinski" DATE_OF_BIRTH="1972-06-01" DESCRIPTION="It's a figure of speech, Morty! They're bureaucrats! I don't respect them. Just keep shooting, Morty! You have no idea what prison is like here!" />
+<Grupa_4.dbo.Author AUTHOR_ID="98" FIRST_NAME="Waleria" LAST_NAME="Wnuk" DATE_OF_BIRTH="1975-07-29" DESCRIPTION="Where are my testicles, Summer?" />
+<Grupa_4.dbo.Author AUTHOR_ID="99" FIRST_NAME="Oliwia" LAST_NAME="Baran" DATE_OF_BIRTH="1955-09-21" DESCRIPTION="Sometimes science is a lot more art, than science. A lot of people don't get that." />
+<Grupa_4.dbo.Author AUTHOR_ID="100" FIRST_NAME="Koralia" LAST_NAME="Jedrzejczyk" DATE_OF_BIRTH="1979-11-27" DESCRIPTION="It's fine, everything is fine. Theres an infinite number of realities Morty and in a few dozen of those I got lucky and turned everything back to normal." />
